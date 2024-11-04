@@ -56,6 +56,7 @@
           </form>
           <button><a href="index.php">صفحه اصلی</a></button>
           <button><a href="login-and-register.php">ثبت نام / ورود</a></button>
+          <button><a href="upload.php">آپلود فایل</a></button>
           </div>
           </div>
   </body>

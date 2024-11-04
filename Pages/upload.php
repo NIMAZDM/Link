@@ -59,17 +59,16 @@ if (isset($_POST["submit"])) {
       <input type="checkbox" id="chk" aria-hidden="true" />
       <div class="signup">
         <form method="POST" enctype="multipart/form-data">
-          <label for="chk" style="font-size: 30px;" aria-hidden="true">آپلودر</label>
+          <label for="chk" style="font-size: 30px;" aria-hidden="true">آپلود فایل</label>
           <label for="file-upload" class="custom-file-upload">
             انتخاب فایل
           </label>
           <input id="file-upload" name="fileToUpload" type="file" />
           <input type="submit" value="آپلود فایل" name="submit" />
         </form>
-        <button><a href="index.php">کوتاه کننده لینک</a></button>
+        <button><a href="index.php">صفحه اصلی</a></button>
         <button><a href="contact-us.php">تماس با ما</a></button>
         <button><a href="login-and-register.php">ثبت نام / ورود</a></button>
-        <button><a href="upload.php">آپلود فایل</a></button>
       </div>
     </div>
 </body>

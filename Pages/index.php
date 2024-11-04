@@ -95,7 +95,6 @@ if (isset($_POST['sub'])) {
           <button><a href="contact-us.php">تماس با ما</a></button>
           <button><a href="login-and-register.php">ثبت نام / ورود</a></button>
           <button><a href="upload.php">آپلود فایل</a></button>
-          <button><a href="login-and-register.php">خرید اشتراک</a></button>
         </div>
       </div>
     <?php } else { ?>
